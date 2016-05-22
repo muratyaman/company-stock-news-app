@@ -4,9 +4,14 @@ This app gets a simple list of companies from a simple PHP API. Then, it retriev
 Demo is here http://cayman-parrot.instantdemo.co.uk
 
 ###References:
-- PHP 5.6 for simple API http://php.net/
-- React https://facebook.github.io/react/
-- React + jQuery + Bootstrap simple starter kit [Download](https://facebook.github.io/react/downloads/react-15.1.0.zip)
-- jQuery https://jquery.com/
-- Twitter Bootstrap http://getbootstrap.com/
+- Ubuntu 14.04 http://www.ubuntu.com/
+- Nginx 1.4 http://nginx.org/en/
+- PHP 5.6 (FPM) http://php.net/
+- React 15.1  https://facebook.github.io/react/
+- Babel 5.8  https://babeljs.io/
+- jQuery 2.2 https://jquery.com/
+- Twitter Bootstrap 3.3 http://getbootstrap.com/
 - Emoji CSS http://afeld.github.io/emoji-css/
+- React, Babel, jQuery, Bootstrap simple starter kit [Download](https://facebook.github.io/react/downloads/react-15.1.0.zip)
+- NodeJs 6.2 https://nodejs.org/en/
+- MongoDB https://www.mongodb.com/
